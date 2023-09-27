@@ -1,0 +1,43 @@
+.centered-form {
+  width: 100%;
+  max-width: 600px;
+  padding: 0 8px;
+}
+
+.button {
+  padding: 7px 15px;
+  border-radius: 8px;
+
+  background-color: var(--bg-btn-primary);
+  transition: background-color .2s linear;
+}
+
+.button:hover {
+  background-color: var(--bg-btn-primary-hover);
+}
+
+.button-danger {
+  padding: 7px 15px;
+  border-radius: 8px;
+
+  background-color: #9a005b;
+  transition: background-color .2s linear;
+}
+
+.button-danger:hover {
+  background-color: #f452a7;
+}
+
+.link {
+  color: var(--fg-link) !important;
+  text-decoration: underline !important;
+  transition: color .2s linear;
+}
+
+.link:hover {
+  color: var(--fg-link-hover) !important;
+}
+
+.section {
+  padding: 1rem 0;
+}
