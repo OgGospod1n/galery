@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37df0c2b-e808-46d9-b646-def632701436" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/v1/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/api/v1/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/v1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/api/v1/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/v1/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/v1/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/v1/src/modules/models.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/v1/src/modules/models.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/v1/src/modules/routes/photoRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/v1/src/modules/routes/photoRoutes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Album/Album.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Album/Album.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/draft.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/AlbumAdd/AlbumAdd.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/AlbumAdd/AlbumAdd.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/AlbumEdit/AlbumEdit.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/AlbumEdit/AlbumEdit.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/PhotoDetails/PhotoDetails.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/PhotoDetails/PhotoDetails.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/PhotoEdit/PhotoEdit.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/PhotoEdit/PhotoEdit.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/PhotoUpload/PhotoUpload.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/PhotoUpload/PhotoUpload.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/profile/UserProfile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/profile/UserProfile.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HttpClientSelectedEnvironments">
+    <file url="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/post-requests.http" environment="test" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2OjqTZFh88PfzOK6IaoxU2AC6RG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Park Sergey/Documents/mirea/Projects/dream-gallery/src/components&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs.jest.jest_package&quot;: &quot;C:/Users/Park Sergey/Documents/mirea/Projects/dream-gallery/node_modules/react-scripts&quot;,
+    &quot;nodejs.mocha.mocha_node_package_dir&quot;: &quot;C:/Users/Park Sergey/Documents/mirea/Projects/dream-gallery/api/v1/node_modules/mocha&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Park Sergey\Documents\mirea\Projects\dream-gallery\src\components" />
+      <recent name="C:\Users\Park Sergey\Documents\mirea\Projects\dream-gallery\src\components\Footer\images" />
+      <recent name="C:\Users\Park Sergey\Documents\mirea\Projects\dream-gallery\src\components\Header" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Park Sergey\Documents\mirea\Projects\dream-gallery\public" />
+      <recent name="C:\Users\Park Sergey\Documents\mirea\Projects\dream-gallery\src\components\Header\images" />
+      <recent name="C:\Users\Park Sergey\Documents\mirea\Projects\dream-gallery\src\pages\Register" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start back">
+    <configuration name="start back" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start back" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start front" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start front" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="/api/v1/albums/" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/api/v1/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$/api/v1</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/api/v1/src/tests.js</test-file>
+      <test-names>
+        <name value="/api/v1/albums/" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="/api/v1/comments/" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/api/v1/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$/api/v1</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/api/v1/src/tests.js</test-file>
+      <test-names>
+        <name value="/api/v1/comments/" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="/api/v1/photos/" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/api/v1/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$/api/v1</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/api/v1/src/tests.js</test-file>
+      <test-names>
+        <name value="/api/v1/photos/" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="/api/v1/users/.DELETE /api/v1/users/" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/api/v1/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$/api/v1</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/api/v1/src/tests.js</test-file>
+      <test-names>
+        <name value="/api/v1/users/" />
+        <name value="DELETE /api/v1/users/" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="mocha-javascript-test-runner" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/api/v1/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$/api/v1</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/api/v1/src/tests.js</test-file>
+      <test-names>
+        <name value="/api/v1/users/" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Mocha./api/v1/albums/" />
+      <item itemvalue="Mocha./api/v1/comments/" />
+      <item itemvalue="Mocha./api/v1/photos/" />
+      <item itemvalue="Mocha./api/v1/users/.DELETE /api/v1/users/" />
+      <item itemvalue="Mocha.test" />
+      <item itemvalue="npm.start back" />
+      <item itemvalue="npm.start front" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mocha./api/v1/albums/" />
+        <item itemvalue="Mocha./api/v1/comments/" />
+        <item itemvalue="Mocha./api/v1/photos/" />
+        <item itemvalue="Mocha.test" />
+        <item itemvalue="Mocha./api/v1/users/.DELETE /api/v1/users/" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37df0c2b-e808-46d9-b646-def632701436" name="Changes" comment="" />
+      <created>1682084346126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682084346126</updated>
+      <workItem from="1682084347289" duration="152000" />
+      <workItem from="1682233284347" duration="14000" />
+      <workItem from="1682237587092" duration="191000" />
+      <workItem from="1682237810773" duration="8956000" />
+      <workItem from="1682247932108" duration="15280000" />
+      <workItem from="1682776322295" duration="3750000" />
+      <workItem from="1682835971166" duration="17823000" />
+      <workItem from="1683358892374" duration="43078000" />
+      <workItem from="1683440973461" duration="30798000" />
+      <workItem from="1683527958581" duration="192000" />
+      <workItem from="1683528159800" duration="10317000" />
+      <workItem from="1683613108197" duration="4344000" />
+      <workItem from="1683959120002" duration="7780000" />
+      <workItem from="1684041629693" duration="23241000" />
+      <workItem from="1684522750428" duration="244000" />
+      <workItem from="1684599184456" duration="5241000" />
+      <workItem from="1684830876043" duration="6267000" />
+      <workItem from="1684915123199" duration="3632000" />
+      <workItem from="1685033483779" duration="2769000" />
+      <workItem from="1685037633584" duration="644000" />
+      <workItem from="1686195404688" duration="6513000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
